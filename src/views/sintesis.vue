@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 La logística en el comercio exterior se refiere a la gestión eficiente del transporte, almacenamiento y distribución de productos a nivel internacional. Juega un papel crucial en garantizar el flujo eficiente de mercancías a través de las fronteras y hacia los destinos finales, cumpliendo con los requisitos aduaneros y asegurando la entrega oportuna y en condiciones óptimas.
 
     .row.justify-content-center
       .col-lg-10.mb-5

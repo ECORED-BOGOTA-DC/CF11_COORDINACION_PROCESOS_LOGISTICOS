@@ -1,17 +1,26 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
+    componenteFormativo: 'Comercio exterior para logística',
+    descripcionCurso:
+      'A través de este componente formativo se busca que el aprendiz adquiera competencias para operar de manera exitosa procesos de comercio internacional, por medio del conocimiento y práctica en la clasificación de la mercancía, en la subpartida arancelaria y nacionalización de mercancías, de acuerdo con el régimen aduanero y de exportación vigente.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/float-1.svg'),
       },
       {
-        clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        clases: ['banner-principal-decorativo-2', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/float-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/float-3.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-4', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/float-4.svg'),
       },
     ],
   },
@@ -31,13 +40,50 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Globalización de la economía - Comercio exterior',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Proceso de importación y exportación',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo:
+              'Requisitos y documentos legales para exportar desde Colombia',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Requisitos y documentos legales para importar a Colombia',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Estructura arancelaria - DIAN',
+            hash: 't_1_4',
+          },
+          {
+            numero: '1.5',
+            titulo: 'Agentes de carga',
+            hash: 't_1_5',
+          },
+          {
+            numero: '1.6',
+            titulo: 'Agentes de aduana',
+            hash: 't_1_6',
+          },
+          {
+            numero: '1.7',
+            titulo: 'Zonas francas',
+            hash: 't_1_7',
+          },
+          {
+            numero: '1.8',
+            titulo:
+              'Entidades que promueven y participan del comercio exterior colombiano',
+            hash: 't_1_8',
           },
         ],
       },
@@ -45,14 +91,68 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Términos de negociación',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Tratados de libre comercio - acuerdos comerciales',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Legislación aduanera',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Transporte internacional',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo: 'Incoterms',
+            hash: 't_2_4',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Proceso logístico',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Caracterización de modos y medios de transporte',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.1',
+            titulo: 'Costos de exportación',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.1',
+            titulo: 'Clasificación de mercancías',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.1',
+            titulo: 'Políticas de negociación',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.1',
+            titulo: 'Presupuesto y operaciones',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.1',
+            titulo: 'Indicadores de gestión de la negociación internacional',
+            hash: 't_3_1',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -102,32 +202,146 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema:
+        'Entidades que promueven y participan el comercio exterior colombiano',
+      referencia:
+        'Clúster textil/confección Diseño y Moda Medellín (2014). <em>Guía de entidades que promueven y apoyan las exportaciones colombianas.</em>',
+      tipo: 'Guía PDF',
+      descarga:
+        '/downloads/Guia_de_entidades_que_promueven_y_apoyan_las_exportaciones_colombianas.pdf',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Incoterms',
+      referencia:
+        'Comercio y aduanas. (2019). INCOTERMS 2020: explicación fácil [video]. YouTube.',
+      tipo: 'Video',
+      link:
+        'https://www.youtube.com/watch?v=DN4syzxRt_U&t=17s&ab_channel=ComercioyAduanas',
+    },
+    {
+      tema: 'Legislación aduanera',
+      referencia:
+        'Sánchez, J. I. (2021). <em>Nueva regulación aduanera en Colombia, Decreto 390 marzo 7 de 2016.</em> DIAN.',
+      tipo: 'Libro',
+      link:
+        'https://www.dian.gov.co/aduanas/Documents/Nueva%20Regulaci%C3%B3n%20Aduanera%20en%20Colombia.pdf',
+    },
+    {
+      tema: 'Requisitos y documentos legales para exportar desde Colombia',
+      referencia:
+        'ProColombia. (2018). <em>¿Cómo exportar servicios desde Colombia?</em> ColombiaTrade.',
+      tipo: 'Artículo',
+      link:
+        'https://www.colombiatrade.com.co/noticias/como-exportar-servicios-desde-colombia',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Agencia',
+      significado:
+        'empresa dedicada a gestionar asuntos o a prestar determinados servicios (Secretaría de Desarrollo Económico, 2021).',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Agencias de aduanas',
+      significado:
+        'son las personas jurídicas cuyo objeto social principal es el ejercicio del agenciamiento aduanero, para lo cual deben obtener autorización por parte de la Dirección de Impuestos y Aduanas Nacionales (DIAN, 2021).',
+    },
+    {
+      termino: 'Autorización de embarque',
+      significado:
+        'es el acto mediante el cual la autoridad aduanera permite la salida de las mercancías que han sido sometidas al régimen de exportación (DIAN, 2021).',
+    },
+    {
+      termino: 'Declaración de mercancías',
+      significado:
+        'es el acto efectuado en la forma prevista por la legislación aduanera, mediante el cual el declarante indica el régimen aduanero que ha de aplicarse a las mercancías y consigna los elementos e informaciones exigidos por las normas pertinentes (DIAN, 2021).',
+    },
+    {
+      termino: 'Derechos <em>antidumping</em>',
+      significado:
+        'derecho aplicado a las importaciones de bienes particulares provenientes de un país específico, para eliminar el perjuicio causado por el <em>dumping</em> a la industria nacional del país importador (EAFIT, 2021).',
+    },
+    {
+      termino: 'Industria nacional',
+      significado:
+        'los productores nacionales de productos similares en su totalidad o aquellos cuyos resultados colectivos de los productos constituyen una gran proporción del producto nacional de esos productos (EAFIT, 2021).',
+    },
+    {
+      termino: 'Mecanismo de estabilización de precios',
+      significado:
+        'es el sistema andino de precios, creado con el objeto principal de estabilizar el costo de importación de un grupo especial de productos agropecuarios caracterizados por una marcada inestabilidad de sus precios internacionales o por graves distorsiones de estos (MinTIC, 2021).',
+    },
+    {
+      termino: 'Partes interesadas',
+      significado:
+        'son los productores colombianos del producto objeto de modificación arancelaria, asociaciones mercantiles, gremiales o empresariales productores del bien objeto de una solicitud, productores extranjeros, exportadores, importadores, consumidores o asociaciones que los representen, entidades gubernamentales y todo aquel que responda al aviso publicado en la página de internet del Ministerio de Comercio, Industria y Turismo, que manifieste y demuestre tener interés legítimo en la solicitud (MinTIC, 2021).',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Baena, J. y Cano, J. (2014). Uso de Tecnologías de Información y Comunicación para la negociación internacional. ¿Ventaja para las empresas colombianas?, Ciencias Estratégicas, 22 (32) (2014), pp. 1-29.',
       link: '',
+    },
+    {
+      referencia:
+        'Daniels, L., Radebaug, D. y Sullivan, D. (2004). <em>Negocios internacionales: ambientes y operaciones</em> (1.a ed). Pearson.',
+      link: '',
+    },
+    {
+      referencia: 'DIAN. (2021). Glosario de términos. DIAN.',
+      link: 'https://www.dian.gov.co/atencionciudadano/Paginas/glosario.aspx',
+    },
+    {
+      referencia: 'EAFIT. (2003). Diccionario de términos de comercio. EAFIT.',
+      link:
+        'https://www.eafit.edu.co/programas-academicos/pregrados/negocios-internacionales/acerca-programa/Documents/glosario-de-comercio-exterior.pdf',
+    },
+    {
+      referencia:
+        'Legiscomex. (2021). Entidades que promueven el comercio exterior en Colombia. Legiscomex.',
+      link:
+        'https://www.legiscomex.com/Documentos/normatividad-zonas-francas-colombia-rci278',
+    },
+    {
+      referencia:
+        'Ministerio de Tecnologías de la Información y las Comunicaciones. (2021). Glosario. MinTic.',
+      link:
+        'https://www.mincit.gov.co/mincomercioexterior/defensa-comercial/comite-de-asuntos-aduaneros-arancelarios-y-de-come/glosario/glosario',
+    },
+    {
+      referencia:
+        'Mora, L. (s.f.). Indicadores de gestión logística. KPI. DIAN.',
+      link: 'Mora, L. (s.f.). Indicadores de gestión logística. KPI. DIAN.',
+    },
+    {
+      referencia:
+        'ProColombia. (2021). ¿Cómo exportar servicios desde Colombia? ColombiaTrade.',
+      link:
+        'https://www.colombiatrade.com.co/noticias/como-exportar-servicios-desde-colombia',
+    },
+    {
+      referencia:
+        'Sánchez, J. I. (2021). Nueva regulación aduanera en Colombia, Decreto 390 marzo 7 de 2016. DIAN.',
+      link:
+        'https://www.dian.gov.co/aduanas/Documents/Nueva%20Regulaci%C3%B3n%20Aduanera%20en%20Colombia.pdf',
+    },
+    {
+      referencia:
+        'Secretaría de Desarrollo Económico. (2021). Glosario. Secretaría de Desarrollo Económico.',
+      link:
+        'http://www.desarrolloeconomico.gov.co/transparencia/informacion-interes/glosario',
+    },
+    {
+      referencia:
+        'SIC. (1999). Decreto 2685 de 1999. Superintendencia de Industria y Comercio.',
+      link:
+        'https://www.sic.gov.co/recursos_user/documentos/normatividad/Dec2685_1999.pdf',
+    },
+    {
+      referencia:
+        'TLC. (2021). Tratados de libre comercio vigentes en Colombia. TLC.',
+      link: 'http://www.tlc.gov.co/acuerdos/vigente',
     },
   ],
   creditos: [
