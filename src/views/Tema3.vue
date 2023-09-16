@@ -7,12 +7,12 @@
         span 3
       h1 Proceso logístico
 
-    img.mb-4.mb-md-auto(src="@/assets/curso/temas/tema3/img-1.png" data-aos="fade-right")
+    img.mb-4.mb-md-auto(src="@/assets/curso/temas/tema3/img-1.png" data-aos="fade-right" alt="Imagen decorativa")
     .tarjeta.tarjeta-edit-2.col-xl-10.mx-auto.mb-5
       p.mb-0 De acuerdo con la DIAN (2021) el proceso logístico es ajustable a las operaciones de comercio exterior, con cifras que utilizan para promover las condiciones geográficas y territoriales del país para la mejora continua de su participación en la economía global de mercado. 
     
     .d-flex.flex-wrap.mb-5
-      img.col-lg-4.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema3/img-2.png" style="max-width: 400px")
+      img.col-lg-4.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema3/img-2.png" style="max-width: 400px" alt="Imagen decorativa")
       .col-lg-8.col-xl-8.ps-lg-4
         p.fw-bold Los principales aspectos a destacar son:
         ul.lista-ul--separador
@@ -49,11 +49,11 @@
         p El transporte juega un papel capital en la interpretación de las interrelaciones físicas y socioeconómicas entre los individuos y grupos en la sociedad; en los análisis de los movimientos de mercancías, personas e información; y en la exploración morfométrica y funcional de las infraestructuras, con el objetivo último de relacionar las restricciones espaciales y los atributos con el origen, extensión, naturaleza y propósito del movimiento. El espacio (geográfico) y movimiento (desplazamiento, intercambio, relación) son dos conceptos básicos que expresan de manera clara el fenómeno del transporte. 
         .cajon.color-secundario.p-4.mb-4(data-aos="fade-left" style="background-color: #F2F6FE")
           p.mb-0 De dichos conceptos se desprenden tres consideraciones espaciales que se deben examinar con detenimiento. En primer lugar, las redes de transporte, su estructura y organización espacial; en segundo lugar, la demanda espacial de los servicios de transporte y, en tercer lugar, los sistemas surgidos en la compleja dialéctica redes-demanda-espacio. 
-      img.col-md-5.col-lg-4.col-xl-3.mx-auto.mb-4.order-1.order-md-2(src="@/assets/curso/temas/tema3/img-4.png" style="max-width: 295px;" data-aos="fade-right")
+      img.col-md-5.col-lg-4.col-xl-3.mx-auto.mb-4.order-1.order-md-2(src="@/assets/curso/temas/tema3/img-4.png" style="max-width: 295px;" data-aos="fade-right" alt="Imagen decorativa")
 
     .tarjeta-avatar-b.col-xl-11.me-xl-auto.mb-5
       .tarjeta-avatar-b__img
-        img.mx-auto(src='@/assets/curso/temas/tema3/img-5.svg' style="max-width: 104px")
+        img.mx-auto(src='@/assets/curso/temas/tema3/img-5.svg' style="max-width: 104px" alt="Imagen decorativa")
       .tarjeta.tarjeta--azul.ps-lg-5(style="background-color: #F6F6F6")
         .p-4.py-md-3.d-flex.flex-wrap.align-items-center
           p.mb-0.order-2.order-md-1.col-md.pe-md-4(data-aos="fade-right") Desde un punto de vista funcional y sistémico, las redes de transporte constituyen el sistema arterial de la organización regional. Están definidas por la estructura de las rutas de carreteras, ferrocarriles o los corredores marítimos y aéreos, entendiéndose como ruta la simple relación o arco entre los nodos que son parte de la red. Los nodos constituyen los focos de generación y atracción de flujos y estos últimos, los elementos transportados a través de las redes (personas, mercancías, información); sin embargo, el sector económico es importante en el desarrollo  del transporte en todas sus esferas. <b>(Martínez, 2009)</b>
@@ -61,7 +61,7 @@
 
     TabsB.color-acento-contenido
       .p-4.py-4.py-md-5.d-flex.flex-wrap(
-        titulo="Exportación"
+        titulo="Modo terrestre"
         :icono="require('@/assets/curso/temas/tema3/img-6.svg')"
         style="background-color: #C4F2F1"
       )
@@ -71,9 +71,9 @@
             br
             |Camiones, camionetas, carrotanques, camabajas, niñeras.
         .col-lg-5.order-1.order-lg-2.mb-4.mb-lg-auto
-          img.mx-auto(src="@/assets/curso/temas/tema3/img-10.png" data-aos="fade-right")
+          img.mx-auto(src="@/assets/curso/temas/tema3/img-10.png" data-aos="fade-right" alt="Imagen decorativa medio de transporte terrestre")
       .p-4.py-4.py-md-5.d-flex.flex-wrap(
-        titulo="Exportación"
+        titulo="Modo marítimo"
         :icono="require('@/assets/curso/temas/tema3/img-7.svg')"
         style="background-color: #C4F2F1"
       )
@@ -83,9 +83,9 @@
             br
             |Buques petroleros, portacontenedores, buques graneleros, buques frigoríficos, buques de carga general.
         .col-lg-5.order-1.order-lg-2.mb-4.mb-lg-auto
-          img.mx-auto(src="@/assets/curso/temas/tema3/img-11.png" data-aos="fade-right")
+          img.mx-auto(src="@/assets/curso/temas/tema3/img-11.png" data-aos="fade-right" alt="Imagen decorativa medio de transporte maritimo")
       .p-4.py-4.py-md-5.d-flex.flex-wrap(
-        titulo="Exportación"
+        titulo="Modo aéreo"
         :icono="require('@/assets/curso/temas/tema3/img-8.svg')"
         style="background-color: #C4F2F1"
       )
@@ -96,9 +96,9 @@
             br
             |Avión, helicóptero.
         .col-lg-5.order-1.order-lg-2.mb-4.mb-lg-auto
-          img.mx-auto(src="@/assets/curso/temas/tema3/img-12.png" data-aos="fade-right")
+          img.mx-auto(src="@/assets/curso/temas/tema3/img-12.png" data-aos="fade-right" alt="Imagen decorativa medio de transporte aéreo")
       .p-4.py-4.py-md-5.d-flex.flex-wrap(
-        titulo="Exportación"
+        titulo="Modo férreo o ferroviario"
         :icono="require('@/assets/curso/temas/tema3/img-9.svg')"
         style="background-color: #C4F2F1"
       )
@@ -109,7 +109,7 @@
             br
             |Tren-ferrocarril.
         .col-lg-5.order-1.order-lg-2.mb-4.mb-lg-auto
-          img.mx-auto(src="@/assets/curso/temas/tema3/img-13.png" data-aos="fade-right")
+          img.mx-auto(src="@/assets/curso/temas/tema3/img-13.png" data-aos="fade-right" alt="Imagen decorativa medio de transporte férreo o ferroviario")
     
     Separador 
 
@@ -117,7 +117,7 @@
       h2#t_3_2 3.2 Costos de exportación
     
     .d-flex.flex-wrap.align-items-start.position-relative.mb-5
-      img.col-md-5.col-lg-4.col-xl-3.mx-auto.mb-4(src="@/assets/curso/temas/tema3/img-14.png" style="max-width: 295px;" data-aos="fade-right")
+      img.col-md-5.col-lg-4.col-xl-3.mx-auto.mb-4(src="@/assets/curso/temas/tema3/img-14.png" style="max-width: 295px;" data-aos="fade-right" alt="Imagen decorativa")
       .col-md-7.col-lg-8.col-xl-9.ps-md-4
         p La globalización y la internacionalización de las industrias en todas las partes dependerán en gran medida del desempeño y de los costos en todas las áreas de actividades de la Distribución Física Internacional. A medida que las compañías vayan alcanzando una visión mundial de sus operaciones, la Distribución Física Internacional en adelante DFI alcanzará creciente importancia dentro de la organización, ya que los costos en especial de los transportes llegarán a ser una parte mayoritaria de la estructura total de costos. 
         .cajon.color-secundario.p-4.mb-4(data-aos="fade-left" style="background-color: #F2F6FE")
@@ -126,21 +126,21 @@
 
     .tarjeta-avatar-b.tarjeta-avatar-b-1.col-xl-11.me-xl-auto.mb-4
       .tarjeta-avatar-b__img
-        img.mx-auto(src='@/assets/curso/temas/tema3/img-15.svg' style="max-width: 104px")
+        img.mx-auto(src='@/assets/curso/temas/tema3/img-15.svg' style="max-width: 104px" alt="Imagen decorativa")
       .tarjeta.tarjeta-e-1.tarjeta--azul.ps-lg-5(style="background-color: #F6F6F6; box-shadow: 0 2px 4px 4px #00000010")
         .p-4.py-md-3.d-flex.flex-wrap.align-items-center
           p.mb-0.order-2.order-md-1.col-md.pe-md-4(data-aos="fade-right") Los más visibles y mejor controlados son los costos de transporte y manejo, las empresas tienen una gran idea del monto de estos costos pero en la realidad la manera de asignar entre los productos y grupos de clientes, es casi siempre por conjeturas. 
     
     .tarjeta-avatar-b.tarjeta-avatar-b-1.col-xl-11.me-xl-auto.mb-4
       .tarjeta-avatar-b__img
-        img.mx-auto(src='@/assets/curso/temas/tema3/img-16.svg' style="max-width: 104px")
+        img.mx-auto(src='@/assets/curso/temas/tema3/img-16.svg' style="max-width: 104px" alt="Imagen decorativa")
       .tarjeta.tarjeta-e-2.tarjeta--azul.ps-lg-5(style="background-color: #F6F6F6; box-shadow: 0 2px 4px 4px #00000010")
         .p-4.py-md-3.d-flex.flex-wrap.align-items-center
           p.mb-0.order-2.order-md-1.col-md.pe-md-4(data-aos="fade-right") Los costos asociados con inventarios se subestiman con mucha frecuencia, con las tasas de interés actuales, el costo de tener capital invertido en inventarios, puede llegar hasta un tercio de su valor. 
     
     .tarjeta-avatar-b.tarjeta-avatar-b-1.col-xl-11.me-xl-auto.mb-5
       .tarjeta-avatar-b__img
-        img.mx-auto(src='@/assets/curso/temas/tema3/img-17.svg' style="max-width: 104px")
+        img.mx-auto(src='@/assets/curso/temas/tema3/img-17.svg' style="max-width: 104px" alt="Imagen decorativa")
       .tarjeta.tarjeta-e-1.tarjeta--azul.ps-lg-5(style="background-color: #F6F6F6; box-shadow: 0 2px 4px 4px #00000010")
         .p-4.py-md-3.d-flex.flex-wrap.align-items-center
           p.mb-0.order-2.order-md-1.col-md.pe-md-4(data-aos="fade-right") Menos obvios y por ello frecuentemente ignorados son los costos de personal y del equipo de computación necesario para operar los sistemas de distribución, para procesar la información y el despacho de órdenes. 
@@ -174,7 +174,7 @@
           h4.text-center Tránsito internacional
           p <b style="color: #35ACA9">Directos:</b> manipuleo desembarque, seguro internacional y transporte internacional.
           p <b style="color: #35ACA9">Indirectos:</b> capital (inventario).
-          img.px-lg-3(src="@/assets/curso/temas/tema3/img-19.svg")
+          img.px-lg-3(src="@/assets/curso/temas/tema3/img-19.svg" alt="Imagen decorativa medios de transporte")
 
       .col-md-6.col-xl-4.mb-4.d-flex
         .w-100.tarjeta-numerada.color-primario.ps-5.py-4.pe-4(data-aos="fade-left")
@@ -184,7 +184,7 @@
           p <b style="color: #1A0F91">Directos:</b> transporte lugar convenido comprador, almacenamiento, seguro, documentación, aduaneros (impuestos), agentes y bancario.
           p <b style="color: #1A0F91">Indirectos:</b> administrativos y capital (inventario).
     
-    p.mb-5 Para el cálculo de los costos de exportación es esencial que la forma de negociación Incoterms quede absolutamente clara con el comprador, para una mejor comprensión se describe en el siguiente ejemplo:
+    p.mb-5 Los costos que se generan en la Distribución Física Internacional se describen de la siguiente manera:
 
     .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
@@ -334,7 +334,7 @@
       table.mb-3
         thead
           tr(style="background-color: #E9F0FE")
-            th(colspan="2") Datos generales
+            th(colspan="2") Costos portuarios en origen
         tbody(style="background-color: white;")
           tr
             td.fw-bold(style="background-color: #F9FBFF") Manejo de la carga en el puerto:
@@ -464,7 +464,7 @@
     p.mb-5 De igual forma, su naturaleza se clasifica en peligrosa, perecedera y extradimensionada. A continuación, se encontrará una clasificación de manera detallada: 
 
     .d-flex.flex-wrap.mb-5
-      img.col-lg-4.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema3/img-21.svg" style="max-width: 400px")
+      img.col-lg-4.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema3/img-21.svg" style="max-width: 400px" alt="Imagen decorativa")
       .col-lg-8.col-xl-8.ps-lg-4
         LineaTiempoD.color-secundario(data-aos="fade-right")
           div(numero="1" titulo="Peligrosa")
@@ -473,24 +473,24 @@
                 p Mercancía que posee propiedades explosivas, venenosas, oxidantes, radioactivas que, durante su manipulación, transporte y almacenamiento representa riesgo para la vida humana. 
 
                 p A partir de la clasificación de peligro es importante conocer las áreas de almacenamiento, alistamiento y despacho de mercancías, lo cual permite conocer la compatibilidad o incompatibilidad para el transporte y el almacenamiento de sustancias químicas.
-              img.col-xl-5.order-1.order-xl-2.mb-4.mb-xl-auto.mx-auto(src="@/assets/curso/temas/tema3/img-22.png" style="max-width: 282px")
+              img.col-xl-5.order-1.order-xl-2.mb-4.mb-xl-auto.mx-auto(src="@/assets/curso/temas/tema3/img-22.png" style="max-width: 282px" alt="Imagen decorativa")
           div(numero="1" titulo="Perecedera")
             .d-flex.flex-wrap
               .col-xl-7.order-2.order-xl-1.pe-xl-4
                 p Por naturaleza son de vencimiento rápido para el consumo, requiere de condiciones especiales en el transporte y el almacenamiento, un ejemplo esta son las frutas, verduras, carne fresca, pescado y flores. 
-              img.col-xl-5.order-1.order-xl-2.mb-4.mb-xl-auto.mx-auto(src="@/assets/curso/temas/tema3/img-23.png" style="max-width: 282px")
+              img.col-xl-5.order-1.order-xl-2.mb-4.mb-xl-auto.mx-auto(src="@/assets/curso/temas/tema3/img-23.png" style="max-width: 282px" alt="Imagen decorativa")
           div(numero="1" titulo="Extradimensionada")
             .d-flex.flex-wrap
               .col-xl-7.order-2.order-xl-1.pe-xl-4
                 p Es la carga que excede en peso y volumen el flete convencional, es decir, rebasa las dimensiones de la carrocería de los vehículos autorizados por el Ministerio de Transporte.
-              img.col-xl-5.order-1.order-xl-2.mb-4.mb-xl-auto.mx-auto(src="@/assets/curso/temas/tema3/img-24.png" style="max-width: 282px")
+              img.col-xl-5.order-1.order-xl-2.mb-4.mb-xl-auto.mx-auto(src="@/assets/curso/temas/tema3/img-24.png" style="max-width: 282px" alt="Imagen decorativa")
     Separador 
 
     .titulo-segundo.color-acento-botones
       h2#t_3_4 3.4 Políticas de negociación
     
     .d-flex.flex-wrap.align-items-start.position-relative.mb-5
-      img.col-md-5.col-lg-4.col-xl-3.mx-auto.mb-4(src="@/assets/curso/temas/tema3/img-25.png" style="max-width: 295px;" data-aos="fade-right")
+      img.col-md-5.col-lg-4.col-xl-3.mx-auto.mb-4(src="@/assets/curso/temas/tema3/img-25.png" style="max-width: 295px;" data-aos="fade-right" alt="Imagen decorativa")
       .col-md-7.col-lg-8.col-xl-9.ps-md-4
         p Los términos de la negociación juegan un papel determinante en los negocios internacionales, ya que estipulan las responsabilidades del vendedor y del comprador, contenidas en la cláusula del contrato de compraventa, con el fin de mostrar una negociación clara, que permita a las partes comprometerse; esto se deriva de saber qué lugar o qué situación genera riesgo, ya que la falta de claridad puede incurrir en pérdidas económicas para la empresa. También es importante tener claro que los medios de transporte no se aplican por igual en todos los casos.
         .cajon.color-acento-contenido.p-4.mb-4(data-aos="fade-left")
@@ -498,7 +498,7 @@
     
     p.fw-bold.text-center.mb-5 En el siguiente mapa conceptual se puede identificar los principales aspectos para tener en cuenta en una negociación: 
 
-    img.col-xl-10.mx-auto(src="@/assets/curso/temas/tema3/img-26.svg" data-aos="fade-right")
+    img.col-xl-10.mx-auto(src="@/assets/curso/temas/tema3/img-26.svg" data-aos="fade-right" alt="Imagen de un mapa conceptual, donde se identifican los aspectos más importantes y que se deben tener en cuenta en una negociación como lo es la clasificación de la actividad económica y la contratación del transporte. De otra parte debe tenerse en cuenta los Incoterms y sus divisiones y finalmente otro aspecto muy importante como lo es la documentación tanto para exportar como para importar.")
     Separador 
 
     .titulo-segundo.color-acento-botones
@@ -509,10 +509,10 @@
         p Toda organización pronostica, planea y presupuesta todas las áreas operativas, teniendo como base los ingresos, gastos y costos dentro de un período de tiempo establecido. 
         .cajon.color-secundario.p-4.mb-4(data-aos="fade-left" style="background-color: #F2F6FE")
           p.mb-0 Si se tiene una buena estructura presupuestal y un buen manejo de los ingresos y los gastos se garantiza una empresa solvente y con un buen músculo financiero, lo que ayuda a la toma de decisiones eficientes y eficaces por parte de los directivos. 
-      img.col-md-5.col-lg-4.col-xl-3.mx-auto.mb-4.order-1.order-md-2(src="@/assets/curso/temas/tema3/img-27.png" style="max-width: 295px;" data-aos="fade-right")
+      img.col-md-5.col-lg-4.col-xl-3.mx-auto.mb-4.order-1.order-md-2(src="@/assets/curso/temas/tema3/img-27.png" style="max-width: 295px;" data-aos="fade-right" alt="Imagen decorativa")
 
     .d-flex.flex-wrap.align-items-start.position-relative.mb-5
-      img.col-md-5.col-lg-4.col-xl-3.mx-auto.mb-4(src="@/assets/curso/temas/tema3/img-28.svg" style="max-width: 295px;" data-aos="fade-right")
+      img.col-md-5.col-lg-4.col-xl-3.mx-auto.mb-4(src="@/assets/curso/temas/tema3/img-28.svg" style="max-width: 295px;" data-aos="fade-right" alt="Imagen decorativa")
       .col-md-7.col-lg-8.col-xl-9.ps-md-4
         p Por lo anterior, se presentan los elementos y otros aspectos a tener en cuenta en la elaboración de un presupuesto como son: normas legales y contables, el ciclo presupuestal, los tipos de presupuestos, los costos logísticos que involucra y los indicadores de gestión con que se evalúa.
 

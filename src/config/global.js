@@ -40,7 +40,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Globalización de la economía - Comercio exterior',
+        titulo: 'Globalización de la economía - comercio exterior',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -128,29 +128,29 @@ export default {
             hash: 't_3_1',
           },
           {
-            numero: '3.1',
+            numero: '3.2',
             titulo: 'Costos de exportación',
-            hash: 't_3_1',
+            hash: 't_3_2',
           },
           {
-            numero: '3.1',
+            numero: '3.3',
             titulo: 'Clasificación de mercancías',
-            hash: 't_3_1',
+            hash: 't_3_3',
           },
           {
-            numero: '3.1',
+            numero: '3.4',
             titulo: 'Políticas de negociación',
-            hash: 't_3_1',
+            hash: 't_3_4',
           },
           {
-            numero: '3.1',
+            numero: '3.5',
             titulo: 'Presupuesto y operaciones',
-            hash: 't_3_1',
+            hash: 't_3_5',
           },
           {
-            numero: '3.1',
+            numero: '3.6',
             titulo: 'Indicadores de gestión de la negociación internacional',
-            hash: 't_3_1',
+            hash: 't_3_6',
           },
         ],
       },
@@ -186,7 +186,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/121523_CF11_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -312,7 +312,7 @@ export default {
     {
       referencia:
         'Mora, L. (s.f.). Indicadores de gestión logística. KPI. DIAN.',
-      link: 'Mora, L. (s.f.). Indicadores de gestión logística. KPI. DIAN.',
+      link: '',
     },
     {
       referencia:
@@ -326,12 +326,12 @@ export default {
       link:
         'https://www.dian.gov.co/aduanas/Documents/Nueva%20Regulaci%C3%B3n%20Aduanera%20en%20Colombia.pdf',
     },
-    {
-      referencia:
-        'Secretaría de Desarrollo Económico. (2021). Glosario. Secretaría de Desarrollo Económico.',
-      link:
-        'http://www.desarrolloeconomico.gov.co/transparencia/informacion-interes/glosario',
-    },
+    // {
+    //   referencia:
+    //     'Secretaría de Desarrollo Económico. (2021). Glosario. Secretaría de Desarrollo Económico.',
+    //   link:
+    //     'http://www.desarrolloeconomico.gov.co/transparencia/informacion-interes/glosario',
+    // },
     {
       referencia:
         'SIC. (1999). Decreto 2685 de 1999. Superintendencia de Industria y Comercio.',
@@ -349,15 +349,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Patricia Aristizabal',
-          cargo: 'Responsable del Ecosistema',
+          nombre: 'Claudia Patricia Aristizábal Gutiérrez',
+          cargo: 'Responsable del equipo',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Responsable de Línea de Producción',
+          nombre: 'Liliana Victoria Morales Gualdrón',
+          cargo: 'Responsable de línea de producción',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -365,10 +365,32 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Nelly Parra Guarín',
+          cargo: 'Adecuación instruccional',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Giovanna Escobar',
+          cargo: 'Diseñadora instruccional',
+          centro: 'Regional Antioquia - Centro de Servicios de Salud',
+        },
+        {
+          nombre: 'Luis Fernando Botero Mendoza',
+          cargo: 'Diseñador instruccional',
+          centro:
+            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
+        },
+        {
+          nombre: 'Andrés Felipe Velandia Espitia',
+          cargo: 'Revisor metodológico y pedagógico',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Julia Isabel Roberto',
+          cargo: 'Diseñadora y evaluadora instruccional',
+          centro:
+            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
         },
       ],
     },
@@ -376,28 +398,34 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de Contenidos Digitales',
+          nombre: 'Eulises Orduz Amézquita',
+          cargo: 'Diseño web',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Jhon Edinson Castañeda Oviedo',
           cargo: 'Desarrollador Fullstack',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
+          nombre: 'Lady Adriana Ariza Luque',
+          cargo: 'Animación y producción audiovisual',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
+          nombre: 'Laura Gisselle Murcia Pardo',
+          cargo: 'Animación y producción audiovisual',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Ernesto Navarro Jaimes',
+          cargo: 'Animación y producción audiovisual',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -405,22 +433,22 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Zuleidy María Ruiz Torres',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          nombre: 'Carolina Coca Salazar',
+          cargo: 'Evaluación de contenidos inclusivos y accesibles',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          nombre: 'Lina Marcela Pérez Manchego',
+          cargo: 'Validación de recursos educativos digitales',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          nombre: 'Leyson Fabian Castaño Pérez',
+          cargo: 'Validación de recursos educativos digitales',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },

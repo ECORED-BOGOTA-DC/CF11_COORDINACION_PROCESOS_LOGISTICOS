@@ -5,10 +5,10 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Globalización de la economía - Comercio exterior
+      h1 Globalización de la economía - comercio exterior
     
     .d-flex.flex-wrap.align-items-start.mb-5.position-relative
-      img.col-md-5.col-lg-4.col-xl-3.mx-auto.mb-4(src="@/assets/curso/temas/tema1/img-1.svg" style="max-width: 295px;" data-aos="fade-right")
+      img.col-md-5.col-lg-4.col-xl-3.mx-auto.mb-4(src="@/assets/curso/temas/tema1/img-1.svg" style="max-width: 295px;" data-aos="fade-right" alt="Imagen decorativa")
       .col-md-7.col-lg-8.col-xl-9.ps-md-4
         .cajon.color-acento-contenido.p-4.mb-4(data-aos="fade-left")
           p.mb-0 La liberalización de la esfera del comercio exterior de varios países está cobrando impulso rápidamente, actualizando los procesos de mejora y los mecanismos de protección del mercado nacional frente a la competencia desleal. Este proceso para los diferentes países implica desarrollar una legislación nacional sobre importaciones, buscando cumplir con el derecho internacional y mantener el equilibrio entre el libre acceso al mercado nacional de los proveedores extranjeros de bienes y servicios, además mantener un nivel adecuado en el entorno competitivo para los productores nacionales.
@@ -21,14 +21,14 @@
       .bloque-texto-g__texto.p-4(data-aos="fade-right")
         p.mb-0 La llegada del COVID-19 afectó el crecimiento de la economía global, ha generado un fuerte impacto en la economía, la cual ha ocasionado una recesión mundial, que de no controlarse seguiría generando tensión financiera con efectos persistentes en las empresas y los hogares. 
     
-    p.mb-5 Es probable que los choques económicos sean más graves y prolongados en las economías de mercado emergentes y en desarrollo con brotes domésticos más grandes y sistemas de atención sanitaria más débiles; mayor exposición a los efectos indirectos internacionales a través del comercio, el turismo y los mercados financieros y de materias primas; marcos macroeconómicos más débiles; y una informalidad y pobreza más extendidas.
+    p.mb-5 Es probable que los choques económicos sean más graves y prolongados en las economías de mercado emergentes y en desarrollo, con brotes domésticos más grandes y sistemas de atención sanitaria más débiles; mayor exposición a los efectos indirectos internacionales a través del comercio, el turismo y los mercados financieros y de materias primas; marcos macroeconómicos más débiles; y una informalidad y pobreza más extendidas.
 
     .d-flex.flex-wrap.align-items-start.position-relative
       .col-md-7.col-lg-8.col-xl-9.pe-md-4.order-2.order-md-1
-        p Más allá de la fuerte contracción económica es probable que la pandemia deje cicatrices duraderas en la economía mundial, lo cual debilita la confianza de los consumidores e inversores, el capital humano y las cadenas de valor mundiales. Al ser en gran medida un reflejo de la reciente caída de la demanda energética mundial es poco probable que los bajos precios del petróleo den un gran impulso al crecimiento mundial a corto plazo. 
+        p Más allá de la fuerte contracción económica, es probable que la pandemia deje cicatrices duraderas en la economía mundial, lo cual debilita la confianza de los consumidores e inversores, el capital humano y las cadenas de valor mundiales. Al ser en gran medida un reflejo de la reciente caída de la demanda energética mundial, es poco probable que los bajos precios del petróleo den un gran impulso al crecimiento mundial a corto plazo. 
         .cajon.color-primario.p-4.mb-4(data-aos="fade-left" style="background-color: #F2F6FE")
           p.mb-0 Aunque las prioridades inmediatas de los responsables políticos son hacer frente a la crisis sanitaria y moderar las pérdidas económicas a corto plazo, las probables consecuencias a largo plazo de la pandemia ponen de manifiesto la necesidad de llevar a cabo programas de reformas integrales para mejorar los motores fundamentales del crecimiento económico, una vez que la crisis se estabilice.
-      img.col-md-5.col-lg-4.col-xl-3.mx-auto.mb-4.order-1.order-md-2(src="@/assets/curso/temas/tema1/img-3.svg" style="max-width: 295px;" data-aos="fade-right")
+      img.col-md-5.col-lg-4.col-xl-3.mx-auto.mb-4.order-1.order-md-2(src="@/assets/curso/temas/tema1/img-3.svg" style="max-width: 295px;" data-aos="fade-right" alt="Imagen decorativa")
     
     Separador 
 
@@ -48,7 +48,7 @@
     .tarjeta.color-primario.p-3.col-lg-10.mx-auto(style="background: linear-gradient(-90deg, rgba(58,180,177,1) 0%, rgba(26,15,145,1) 100%);")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
-          img(src="@/assets/curso/temas/tema1/img-5.svg")
+          img(src="@/assets/curso/temas/tema1/img-5.svg" alt="Imagen decorativa")
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0.texto-blanco
@@ -64,7 +64,7 @@
     .titulo-segundo.color-acento-botones
       h2#t_1_2 1.2 Requisitos y documentos legales para exportar desde Colombia
     
-    img.mb-4.mb-md-auto(src="@/assets/curso/temas/tema1/img-6.png" data-aos="fade-right")
+    img.mb-4.mb-md-auto(src="@/assets/curso/temas/tema1/img-6.png" data-aos="fade-right" alt="Imagen decorativa")
     .tarjeta.tarjeta-edit-2.col-xl-10.mx-auto.mb-5
       p.mb-0 La exportación se entiende como la salida del territorio nacional de mercancías, productos o servicios. También cuando se vende un producto o servicio a un comprador de otro país, visitante o turista. 
     
@@ -78,43 +78,43 @@
         .col-xl-3.px-md-3.d-flex
           .tarjeta-edit-1.w-100.me-md-0
             span.number-tj 01
-            img.mx-auto.mb-4(src="@/assets/curso/temas/tema1/tj-1.svg" style="max-width: 152px")
+            img.mx-auto.mb-4(src="@/assets/curso/temas/tema1/tj-1.svg" style="max-width: 152px" alt="Imagen decorativa Transporte")
             h5.mb-0.text-center Transporte
         
         .col-xl-3.px-md-3.d-flex
           .tarjeta-edit-1.w-100.me-md-0
             span.number-tj 02
-            img.mx-auto.mb-4(src="@/assets/curso/temas/tema1/tj-2.svg" style="max-width: 152px")
+            img.mx-auto.mb-4(src="@/assets/curso/temas/tema1/tj-2.svg" style="max-width: 152px" alt="Imagen decorativa Almacenamiento")
             h5.mb-0.text-center Almacenamiento
         
         .col-xl-3.px-md-3.d-flex
           .tarjeta-edit-1.w-100.me-md-0
             span.number-tj 03
-            img.mx-auto.mb-4(src="@/assets/curso/temas/tema1/tj-3.svg" style="max-width: 152px")
+            img.mx-auto.mb-4(src="@/assets/curso/temas/tema1/tj-3.svg" style="max-width: 152px" alt="Imagen decorativa Inventarios")
             h5.mb-0.text-center Inventarios
         
         .col-xl-3.px-md-3.d-flex
           .tarjeta-edit-1.w-100.me-md-0
             span.number-tj 04
-            img.mx-auto.mb-4(src="@/assets/curso/temas/tema1/tj-4.svg" style="max-width: 152px")
+            img.mx-auto.mb-4(src="@/assets/curso/temas/tema1/tj-4.svg" style="max-width: 152px" alt="Imagen decorativa Administración")
             h5.mb-0.text-center Administración
         
         .col-xl-3.px-md-3.d-flex
           .tarjeta-edit-1.w-100.me-md-0
             span.number-tj 05
-            img.mx-auto.mb-4(src="@/assets/curso/temas/tema1/tj-5.svg" style="max-width: 152px")
+            img.mx-auto.mb-4(src="@/assets/curso/temas/tema1/tj-5.svg" style="max-width: 152px" alt="Imagen decorativa Procesamiento de <br>ordenes-pedidos")
             h5.mb-0.text-center Procesamiento de <br>ordenes-pedidos
         
         .col-xl-3.px-md-3.d-flex
           .tarjeta-edit-1.w-100.me-md-0
             span.number-tj 06
-            img.mx-auto.mb-4(src="@/assets/curso/temas/tema1/tj-6.svg" style="max-width: 152px")
+            img.mx-auto.mb-4(src="@/assets/curso/temas/tema1/tj-6.svg" style="max-width: 152px" alt="Imagen decorativa Costos laborales")
             h5.mb-0.text-center Costos laborales
 
         .col-xl-3.px-md-3.d-flex
           .tarjeta-edit-1.w-100.me-md-0
             span.number-tj 07
-            img.mx-auto.mb-4(src="@/assets/curso/temas/tema1/tj-7.svg" style="max-width: 152px")
+            img.mx-auto.mb-4(src="@/assets/curso/temas/tema1/tj-7.svg" style="max-width: 152px" alt="Imagen decorativa Costos laborales")
             h5.mb-0.text-center Costos laborales
     p.mb-5.fw-bold Explore en las siguientes tarjetas los tipos de exportación de muestras sin valor comercial y exportación de servicios, para que identifique los requisitos de cada uno: 
 
@@ -126,7 +126,7 @@
       )
         p.text-center Los productos a exportar por esta modalidad tienen la responsabilidad de acogerse a las normas sanitarias y aprobaciones en caso de ser necesario.  
         p.text-center.fw-bold.mb-4 Requisitos vigentes exigidos para la exportación de muestras sin valor comercial: 
-        img.mx-auto.mb-4(src="@/assets/curso/temas/tema1/img-9.svg" style="max-width: 766px")
+        img.mx-auto.mb-4(src="@/assets/curso/temas/tema1/img-9.svg" style="max-width: 766px" alt="Imagen que describe los requisitos que se exigen para la exportación que son: Elaboración de factura comercial. Certificado de origen. Diligenciamiento de la declaración simplificada de exportación.")
         p.mb-0.text-center Se debe considerar que varios productos no están relacionados en este régimen, por lo que se hace necesario verificar el Decreto 2685/99.  
         p.text-center Los exportadores cuentan con un cupo de USD 10.000 anuales en esta modalidad.
       .py-4.py-md-5(
@@ -137,7 +137,7 @@
         p.text-center Así como se dan las exportaciones de mercancías, productos o bienes, también se pueden exportar servicios.
         p.fw-bold.text-center Los pasos básicos para realizar una exportación de servicios:
         .d-flex.flex-wrap.align-items-start.mb-5.position-relative
-          img.col-md-5.col-lg-4.col-xl-3.mx-auto.mb-4(src="@/assets/curso/temas/tema1/img-10.svg" style="max-width: 147px;" data-aos="fade-right")
+          img.col-md-5.col-lg-4.col-xl-3.mx-auto.mb-4(src="@/assets/curso/temas/tema1/img-10.svg" style="max-width: 147px;" data-aos="fade-right" alt="Imagen decorativa")
           .col-md-7.col-lg-8.col-xl-9.ps-md-4
             .d-flex.flex-wrap
               ul.col-lg-6.pe-lg-3.mb-0
@@ -176,7 +176,7 @@
     .tarjeta--container.row.mb-5
       .col-md.tarjeta.color-primario.p-5.d-flex.flex-wrap(style="background-color: #C4F2F1")
         .mx-auto.mb-4.row.justify-content-center(style="max-width: 166px")
-          img(src='@/assets/curso/temas/tema1/img-11.svg')
+          img(src='@/assets/curso/temas/tema1/img-11.svg' alt="Imagen decorativa")
         p Se invita a consultar la página web del Ministerio de Comercio, Industria y Turismo donde se brinda información relevante para la exportación de un bien.
         p Preste atención a los pasos, regulaciones y procedimientos.
         .col-sm-auto.m-auto
@@ -186,7 +186,7 @@
 
       .col-md.tarjeta.color-acento-botones.p-5.d-flex.flex-wrap(style="background-color: #D8E4FD")
         .mx-auto.mb-4.row.justify-content-center(style="max-width: 166px")
-          img(src='@/assets/curso/temas/tema1/img-12.svg')
+          img(src='@/assets/curso/temas/tema1/img-12.svg' alt="Imagen decorativa")
         p Se invita a consultar el Decreto 2685 de 1999 para que se familiarice con los conceptos, terminología y normativas.
 
         p Publicado en la página de la Superintendencia de Industria y Comercio.
@@ -197,8 +197,8 @@
 
       .col-md.tarjeta.color-acento-contenido.p-5.d-flex.flex-wrap(style="background-color: #C4F2F1")
         .mx-auto.mb-4.row.justify-content-center(style="max-width: 166px")
-          img(src='@/assets/curso/temas/tema1/img-13.svg')
-        p Complemente la consulta de normas, decretos, reglamentos, digite la normativa de interés vigente y léala con atención , por ejemplo, el Decreto 2685 de 1999, el Decreto 1530 de 2008 y el Decreto 2942 de 2007.
+          img(src='@/assets/curso/temas/tema1/img-13.svg' alt="Imagen decorativa")
+        p Complemente la consulta de normas, decretos, reglamentos, digite la normativa de interés vigente y léala con atención, por ejemplo, el Decreto 2685 de 1999, el Decreto 1530 de 2008 y el Decreto 2942 de 2007.
         .col-sm-auto.m-auto
           a.boton.color-acento-botones(href="https://www.suin-juriscol.gov.co/" target="_blank")
             span Ir al enlace
@@ -210,9 +210,9 @@
       h2#t_1_3 1.3 Requisitos y documentos legales para importar a Colombia
     
     .container-100.pb-5.mb-5(style="background: linear-gradient(180deg, rgba(255,255,255,1) 9%, rgba(243,246,254,1) 9%, rgba(243,246,254,1) 100%);")
-      img.mb-4.mb-md-auto(src="@/assets/curso/temas/tema1/img-14.png" data-aos="fade-right")
+      img.mb-4.mb-md-auto(src="@/assets/curso/temas/tema1/img-14.png" data-aos="fade-right" alt="Imagen decorativa")
       .tarjeta.tarjeta-edit-2.col-xl-10.mx-auto.mb-5
-        p.mb-0 La importación hace referencia a la introducción de mercancías, productos, bienes o servicios a nuestro territorio, provenientes de territorio externo al nacional o del extranjero.
+        p.mb-0 La importación hace referencia a la introducción de mercancías, productos, bienes o servicios a nuestro territorio, provenientes de territorio externo, al nacional o del extranjero.
     
     
       p.mb-5.fw-bold.text-center A continuación, se relacionan los pasos recomendados en la página web del Ministerio de Comercio, Industria y Turismo de Colombia para importar:
@@ -225,46 +225,46 @@
               |<b>a.</b> por medio del arancel de aduanas.
               br
               |<b>b.</b> con ayuda del centro de información.
-          img.mx-4.order-1.order-md-2.mb-4.mb-md-auto(src='@/assets/curso/temas/tema1/pa-1.svg' style="max-width: 161px")
+          img.mx-4.order-1.order-md-2.mb-4.mb-md-auto(src='@/assets/curso/temas/tema1/pa-1.svg' style="max-width: 161px" alt="Imagen decorativa")
 
         .row
-          img.mb-4.mb-md-auto.mx-4(src='@/assets/curso/temas/tema1/pa-2.svg' style="max-width: 161px")
+          img.mb-4.mb-md-auto.mx-4(src='@/assets/curso/temas/tema1/pa-2.svg' style="max-width: 161px" alt="Imagen decorativa")
           .col-md
             p El proceso de registro como importadores. Para poder importar en Colombia es necesario hacer parte del regimen común, es por esto que los importandores de mercancías deben inscribirse en la Cámara de Comercio y contar con el Registro Unico Tributario (RUT), especificando la actividad del importador, en las casillas 54 y 55. Con esto la dirección de impuestos y Aduanas nacionales (DIAN) los indetifica, ubica y los clasifica para adminstrarlos y controlarlos.
         
         .row
           .col-md.mb-4.mb-md-0.order-2.order-md-1
             p La elaboración del estudio de mercado. Es importante realizar este estudio junto con la factibilidad económica previo a la importación, con el fin de verificar la aceptación de los productos en el mercado internacional, todos los costos del transporte, los precios del producto, los costos de desaduanamiento y demás gastos que tengan que asumir para llevar a buen término la importación.
-          img.mx-4.order-1.order-md-2.mb-4.mb-md-auto(src='@/assets/curso/temas/tema1/pa-3.svg' style="max-width: 161px")
+          img.mx-4.order-1.order-md-2.mb-4.mb-md-auto(src='@/assets/curso/temas/tema1/pa-3.svg' style="max-width: 161px" alt="Imagen decorativa")
 
         .row
-          img.mb-4.mb-md-auto.mx-4(src='@/assets/curso/temas/tema1/pa-4.svg' style="max-width: 161px")
+          img.mb-4.mb-md-auto.mx-4(src='@/assets/curso/temas/tema1/pa-4.svg' style="max-width: 161px" alt="Imagen decorativa")
           .col-md
             p La identificación del producto. Se debe verificar la subpartida arancelaria para definir los derechos aduaneros, con el fin de verificar el producto objeto de importación que necesitan visto bueno e inscripciones antes las diferentes entidades controladoras como el ICA, INVIMA, Ministerio de ambiente, ANLA, Ministerio de minas, Transporte, Agricultura, Superintendencia de industria y comercio, Agencia nacional minera, AUNAP, entre otros.
         
         .row
           .col-md.mb-4.mb-md-0.order-2.order-md-1
             p El trámite ante el Ministerio de Comercio, Industria y Turismo. Este requerimiento es necesario cuando se necesita el registro de importación y se realiza en la página <a href="www.vuce.gov.co">www.vuce.gov.co</a>
-          img.mx-4.order-1.order-md-2.mb-4.mb-md-auto(src='@/assets/curso/temas/tema1/pa-5.svg' style="max-width: 161px")
+          img.mx-4.order-1.order-md-2.mb-4.mb-md-auto(src='@/assets/curso/temas/tema1/pa-5.svg' style="max-width: 161px" alt="Imagen decorativa")
 
         .row
-          img.mb-4.mb-md-auto.mx-4(src='@/assets/curso/temas/tema1/pa-6.svg' style="max-width: 161px")
+          img.mb-4.mb-md-auto.mx-4(src='@/assets/curso/temas/tema1/pa-6.svg' style="max-width: 161px" alt="Imagen decorativa")
           .col-md
             p El procedimiento cambiario en las importaciones. El régimen cambiario colombiano establece que los pagos deben ser canalizados a través de intermediarios cambiarios autorizados por la ley (bancos comerciales, entre otros) el importador debe realizar el pago previamente, girando las divisas hacia el extranjero, después de diligenciar el formulario de declaración de cambio No.1 del Banco de la República.
         
         .row
           .col-md.mb-4.mb-md-0.order-2.order-md-1
             p Otros trámites. Debe comprobar que el término de negociación (Incoterms) pactado, incluya el pago del transporte internacional, con el fin de contratar la empresa transportadora para detallar los costos del traslado de la mercancía hacia el puerto colombiano más conveniente y escoger el depósito de aduanas donde se almacena la mercancía, mientras es nacionalizada.
-          img.mx-4.order-1.order-md-2.mb-4.mb-md-auto(src='@/assets/curso/temas/tema1/pa-7.svg' style="max-width: 161px")
+          img.mx-4.order-1.order-md-2.mb-4.mb-md-auto(src='@/assets/curso/temas/tema1/pa-7.svg' style="max-width: 161px" alt="Imagen decorativa")
     
     .d-flex.mb-5
       h3.py-3.px-4(style="background-color: #57DBD8; border-bottom-left-radius: 29px; border-top-right-radius: 29px;") Proceso de nacionalización
 
     .d-flex.flex-wrap.align-items-start.mb-5.position-relative
-      img.col-md-5.col-lg-4.col-xl-3.mx-auto.mb-4(src="@/assets/curso/temas/tema1/img-15.png" style="max-width: 295px;" data-aos="fade-right")
+      img.col-md-5.col-lg-4.col-xl-3.mx-auto.mb-4(src="@/assets/curso/temas/tema1/img-15.png" style="max-width: 295px;" data-aos="fade-right" alt="Imagen decorativa")
       .col-md-7.col-lg-8.col-xl-9.ps-md-4
         .cajon.color-acento-contenido.p-4.mb-4(data-aos="fade-left")
-          p.mb-0 Se da cuando la mercancía se encuentra en el territorio aduanero nacional, es enviada para realizar la inspección antes de la formalización de la declaración de importación, identificando su valor en el evento que sea igual o superior a los US5000 el importador deberá diligenciar la Declaración Andina del Valor en la respectiva aduana. Con este documento se determina el valor base para el pago de su importación. 
+          p.mb-0 Se da cuando la mercancía se encuentra en el territorio aduanero nacional, es enviada para realizar la inspección antes de la formalización de la declaración de importación, identificando su valor en el evento que sea igual o superior a los US5000, el importador deberá diligenciar la Declaración Andina del Valor en la respectiva aduana. Con este documento se determina el valor base para el pago de su importación. 
         p.fw-bold Según el Estatuto Aduanero (Decreto 2685/99) podrán actuar directamente ante la DIAN:
         ul.lista-ul--separador
           li(style="border-bottom-style: dashed;")
@@ -288,40 +288,40 @@
         ul.lista-ul--separador.mb-0
           li(style="border-bottom-style: dashed; border-top: 1px dashed #b0c0d2; padding-top: 15px")
             span.fw-bold(style="font-size: 16px; color: #FE7062") I.
-            | Factura comercial
+            | Factura comercial.
           li(style="border-bottom-style: dashed;")
             span.fw-bold(style="font-size: 16px; color: #FE7062") II.
-            | Lista de empaque
+            | Lista de empaque.
           li(style="border-bottom-style: dashed;")
             span.fw-bold(style="font-size: 16px; color: #FE7062") III.
-            | Registro o licencia de importación, si se requiere
+            | Registro o licencia de importación, si se requiere.
           li(style="border-bottom: 1px dashed #b0c0d2; padding-bottom: 15px")
             span.fw-bold(style="font-size: 16px; color: #FE7062") IV.
-            | Certificado de origen (según el producto y el origen)
+            | Certificado de origen (según el producto y el origen).
       .col-xl.d-none.d-xl-flex
-        img.px-2(src="@/assets/curso/temas/tema1/img-16.svg")
+        img.px-2(src="@/assets/curso/temas/tema1/img-16.svg" alt="Imagen decorativa")
       .col-12.col-lg-6.col-xl-5.ps-0.ps-lg-4.ps-xl-0
         ul.lista-ul--separador
           li.d-none.d-lg-flex.p-0.m-0(style="border-bottom-style: dashed;")
           li.pt-lg-3(style="border-bottom-style: dashed;")
             span.fw-bold(style="font-size: 16px; color: #FE7062") V.
-            | Declaración de importación
+            | Declaración de importación.
           li(style="border-bottom-style: dashed;")
             span.fw-bold(style="font-size: 16px; color: #FE7062") VII.
-            | Documento de transporte (guía aérea- conocimiento de embarque)
+            | Documento de transporte (guía aérea- conocimiento de embarque).
           li(style="border-bottom-style: dashed;")
             span.fw-bold(style="font-size: 16px; color: #FE7062") VII.
-            | Declaración andina del valor en aduana, si se requiere
+            | Declaración andina del valor en aduana, si se requiere.
           li(style="border-bottom: 1px dashed #b0c0d2; padding-bottom: 15px")
             span.fw-bold(style="font-size: 16px; color: #FE7062") VIII.
-            | Otros certificados o vistos buenos, si se requieren
+            | Otros certificados o vistos buenos, si se requieren.
     
     p.mb-5 Según el Estatuto Aduanero (Decreto 2685/99) el sistema informático aduanero determina si podrá efectuarse el levante automático o si se requiere la inspección física de la mercancía. En el primer caso, podrá retirar la mercancía una vez sea autorizado por el Depósito o funcionario aduanero y en el segundo, el inspector de la DIAN verificará la concordancia de lo declarado en los documentos con la mercancía para la cual se solicita la autorización de levante.
 
     .tarjeta.color-primario.p-3.col-lg-10.mx-auto(style="background: linear-gradient(-90deg, rgba(58,180,177,1) 0%, rgba(26,15,145,1) 100%);")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
-          img(src="@/assets/curso/temas/tema1/img-17.svg")
+          img(src="@/assets/curso/temas/tema1/img-17.svg" alt="Imagen decorativa")
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0.texto-blanco
@@ -354,7 +354,7 @@
             i.fas.fa-angle-right(style="font-size: 24px; color: #FE7062")
             | Demanda para ingresar al mercado objetivo.
       .col-lg-6.col-xl-5
-        img(src="@/assets/curso/temas/tema1/img-18.png")
+        img(src="@/assets/curso/temas/tema1/img-18.png" alt="Imagen decorativa")
     
     p.mb-5 Tenga presente que para consultar el arancel de aduana se debe ingresar al espacio creado por la DIAN para ese fin, en la sección consulta arancel del servicio en línea MUISCA se puede consultar los siguientes parámetros:
 
@@ -388,7 +388,7 @@
     .tarjeta.color-primario.p-3.col-lg-10.mx-auto(style="background: linear-gradient(-90deg, rgba(58,180,177,1) 0%, rgba(26,15,145,1) 100%);")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
-          img(src="@/assets/curso/temas/tema1/img-19.svg")
+          img(src="@/assets/curso/temas/tema1/img-19.svg" alt="Imagen decorativa")
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0.texto-blanco
@@ -417,7 +417,7 @@
       :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/bg-1.png')})`}"
       style="background-size: cover; background-repeat: no-repeat; background-position: center"
     )
-      img.mx-auto(src="@/assets/curso/temas/tema1/img-20.svg" style="max-width: 400px")
+      img.mx-auto(src="@/assets/curso/temas/tema1/img-20.svg" style="max-width: 400px" alt="Imagen decorativa")
 
     Separador 
 
@@ -429,12 +429,12 @@
         p Están definidos como personas jurídicas autorizadas para realizar trámites de las mercancías sin nacionalizar ante la Dirección de Impuestos y Aduana (DIAN, 2021). 
         .cajon.color-secundario.p-4.mb-4(style="background-color: #E9F0FE" data-aos="fade-left")
           p.mb-0 Prestan servicios del importador o exportador, le confiere el encargo de representarlo para efectuar el  trámite de control aduanero, bajo los requisitos establecidos en el Decreto 1165 de 2019 (ProColombia, 2021).
-      img.col-lg-4.col-xl-3.col-md-5.mb-4.mb-md-auto.mx-auto.order-1.order-lg-2(src="@/assets/curso/temas/tema1/img-22.svg" style="max-width: 295px;" data-aos="fade-right")
+      img.col-lg-4.col-xl-3.col-md-5.mb-4.mb-md-auto.mx-auto.order-1.order-lg-2(src="@/assets/curso/temas/tema1/img-22.svg" style="max-width: 295px;" data-aos="fade-right" alt="Imagen decorativa")
 
-    .tarjeta.color-primario.p-3.col-lg-10.mx-auto(style="background: linear-gradient(-90deg, rgba(58,180,177,1) 0%, rgba(26,15,145,1) 100%);")
+    .tarjeta.color-primario.p-3.col-lg-10.mx-auto.mb-5(style="background: linear-gradient(-90deg, rgba(58,180,177,1) 0%, rgba(26,15,145,1) 100%);")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
-          img(src="@/assets/curso/temas/tema1/img-19.svg")
+          img(src="@/assets/curso/temas/tema1/img-19.svg" alt="Imagen decorativa")
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0.texto-blanco
@@ -518,7 +518,7 @@
     .tarjeta.color-primario.p-3.col-lg-10.mx-auto.mb-5(style="background: linear-gradient(-90deg, rgba(58,180,177,1) 0%, rgba(26,15,145,1) 100%);")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
-          img(src="@/assets/curso/temas/tema1/img-24.svg")
+          img(src="@/assets/curso/temas/tema1/img-24.svg" alt="Imagen decorativa")
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0.texto-blanco
@@ -529,11 +529,11 @@
                 span Ir al enlace
                 i.fas.fa-link
 
-    p.mb-5.fw-bold.text-center Algunas herramientas tecnológicas que se encuentran para la gestión de los inventarios son:
+    p.mb-5.fw-bold.text-center En el siguiente recurso de aprendizaje conocerá los beneficios de la zona franca:
 
 
     .d-flex.flex-wrap.mb-5
-      img.col-lg-4.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema1/img-25.png" style="max-width: 400px")
+      img.col-lg-4.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema1/img-25.png" style="max-width: 400px" alt="Imagen decorativa")
       .col-lg-8.col-xl-8.ps-lg-4
         LineaTiempoD.color-secundario(data-aos="fade-right")
           div(numero="1" titulo="Aduaneros")
@@ -578,7 +578,7 @@
             .crd_hover_txt(data-aos="flip-left")
               .crd_hover_txt--img
                 figure
-                  img(src="@/assets/curso/temas/tema1/tjs-1.jpg")
+                  img(src="@/assets/curso/temas/tema1/tjs-1.jpg" alt="Imagen decorativa Zona franca permanente")
               .crd_hover_txt--body(style="background-color: #91B3FAF0")
                 h5.mb-3.text-center Zona franca permanente
                 p.mb-0 Es aquella donde en un área determinada varias empresas desarrollan actividades industriales o de servicios.
@@ -589,7 +589,7 @@
             .crd_hover_txt(data-aos="flip-left")
               .crd_hover_txt--img
                 figure
-                  img(src="@/assets/curso/temas/tema1/tjs-2.jpg")
+                  img(src="@/assets/curso/temas/tema1/tjs-2.jpg" alt="Imagen decorativa Zona franca permanente especial")
               .crd_hover_txt--body(style="background-color: #57DBD8F0")
                 h5.mb-3.text-center Zona franca permanente especial
                 p.mb-0 Es aquella donde una sola empresa independiente del área geográfica donde se ubique tiene la posibilidad de amparar su actividad con beneficios de zona franca.
@@ -600,7 +600,7 @@
             .crd_hover_txt(data-aos="flip-left")
               .crd_hover_txt--img
                 figure
-                  img(src="@/assets/curso/temas/tema1/tjs-3.jpg")
+                  img(src="@/assets/curso/temas/tema1/tjs-3.jpg" alt="Imagen decorativa Zona franca transitoria")
               .crd_hover_txt--body(style="background-color: #91B3FAF0")
                 h5.mb-3.text-center Zona franca transitoria
                 p.mb-0 Es aquella que se autoriza para la celebración de ferias, exposiciones, congresos, seminarios de carácter internacional con importancia económica y el comercio internacional del país.
@@ -608,7 +608,7 @@
     .tarjeta.color-primario.p-3.col-lg-10.mx-auto.mb-5(style="background: linear-gradient(-90deg, rgba(58,180,177,1) 0%, rgba(26,15,145,1) 100%);")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
-          img(src="@/assets/curso/temas/tema1/img-26.svg")
+          img(src="@/assets/curso/temas/tema1/img-26.svg" alt="Imagen decorativa")
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0.texto-blanco
@@ -748,7 +748,7 @@
             i.fas.fa-angle-right(style="font-size: 24px; color: #FE7062")
             | Seguro de Crédito a la Exportación (Segurexpo).
       .col-lg-6.col-xl-5
-        img(src="@/assets/curso/temas/tema1/img-27.png")
+        img(src="@/assets/curso/temas/tema1/img-27.png" alt="Imagen decorativa")
 
     .cajon.color-secundario.p-4.mb-5(style="background-color: #E9F0FE" data-aos="fade-left")
       p.mb-0 Para tener un panorama amplio de lo que se presenta en este apartado se recomienda ir al material complementario y revisar el archivo denominado <b>“Guía de entidades que promueven y apoyan las exportaciones colombianas”</b>, en el que se presenta cada una de las entidades que apoyan estos procesos en Colombia. 
@@ -756,7 +756,7 @@
     .tarjeta.color-primario.p-3.col-lg-10.mx-auto(style="background: linear-gradient(-90deg, rgba(58,180,177,1) 0%, rgba(26,15,145,1) 100%);")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
-          img(src="@/assets/curso/temas/tema1/img-28.svg")
+          img(src="@/assets/curso/temas/tema1/img-28.svg" alt="Imagen decorativa")
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0.texto-blanco

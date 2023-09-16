@@ -28,12 +28,12 @@
         .cajon.color-secundario.p-4.mb-5(style="background-color: #E9F0FE" data-aos="fade-left")
           p.mb-0 Los tratados de libre comercio de Colombia facilitan al país realizar importantes avances en su economía, ya que han ampliado el mercado de bienes y servicios para los colombianos. Además, se establecen vínculos más cercanos con los países socios, permitiendo el fortalecimiento de las relaciones bilaterales y/o regionales. Por otro lado, este tipo de acuerdos comerciales permiten a los exportadores proyectar sus negocios, comparar sus productos con la oferta mundial y generar más empleo.
       .col-lg-6.col-xl-5
-        img(src="@/assets/curso/temas/tema2/img-2.svg")
+        img(src="@/assets/curso/temas/tema2/img-2.svg" alt="Imagen decorativa")
 
     .tarjeta.color-primario.p-3.col-lg-10.mx-auto(style="background: linear-gradient(-90deg, rgba(58,180,177,1) 0%, rgba(26,15,145,1) 100%);")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
-          img(src="@/assets/curso/temas/tema2/img-10.svg")
+          img(src="@/assets/curso/temas/tema2/img-10.svg" alt="Imagen decorativa")
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0.texto-blanco
@@ -49,7 +49,7 @@
     .titulo-segundo.color-acento-botones
       h2#t_2_2 2.2 Legislación aduanera
     
-    p.mb-5 Demarcación en la que se aplica la legislación aduanera, que abarca todo el territorio nacional, incluido el subsuelo, el mar territorial, la zona contigua al territorio nacional, la plataforma continental, la zona económica exclusiva, el espacio aéreo continental, la zona económica exclusiva, el espacio aéreo, el segmento de la órbita geoestacionaria, , el espectro electromagnético y el espacio en el que el Estado colombiano actúa, de acuerdo con el derecho internacional o con las leyes colombianas en ausencia de normas internacionales. En el siguiente recurso se explica un poco más en detalle este proceso:
+    p.mb-5 Demarcación en la que se aplica la legislación aduanera, que abarca todo el territorio nacional, incluido el subsuelo, el mar territorial, la zona contigua al territorio nacional, la plataforma continental, la zona económica exclusiva, el espacio aéreo continental, la zona económica exclusiva, el espacio aéreo, el segmento de la órbita geoestacionaria, el espectro electromagnético y el espacio en el que el Estado colombiano actúa, de acuerdo con el derecho internacional o con las leyes colombianas en ausencia de normas internacionales. En el siguiente recurso se explica un poco más en detalle este proceso:
 
     .container-100.mb-5(style="background-color: #E6FAF9")
       SlyderB.col-xl-10.mx-auto(:datos="datosSlyder")
@@ -65,7 +65,7 @@
         .cajon.color-secundario.p-4.mb-5(style="background-color: #E9F0FE" data-aos="fade-left")
           p.mb-0 La competitividad del transporte internacional afecta el desempeño económico de estas variables sobre el transporte, se destacan los siguientes países como los más competitivos: Estados Unidos, Hong Kong, Singapur, China, Suecia, España, Japón, Bélgica, Dinamarca y Canadá, destacando que los países de América Latina con mayor puntuación en esta categoría son Brasil, seguido de Panamá, Chile y Costa Rica.
       .col-lg-6.col-xl-5
-        img(src="@/assets/curso/temas/tema2/img-7.png")
+        img(src="@/assets/curso/temas/tema2/img-7.png" alt="Imagen decorativa")
 
     p.mb-5 Cabe señalar que los retos del sistema de transporte han aumentado debido a una mayor demanda de unidades especializadas, una tendencia acelerada hacia el apoyo de redes logísticas más flexibles, la minimización de los inventarios en el canal, el aumento de los requisitos para aumentar la rentabilidad del servicio de transporte en largas distancias, junto con el aumento de los precios del combustible y los costes de transporte.
 
@@ -139,7 +139,7 @@
 
         p.mb-0 Los Incoterms 2020 se dividen en 11 términos para cualquier modo de transporte (EXW, FCA, CPT, CIP, DAP, DPU y DDP) y para transporte marítimos y aguas navegables (FAS, FOB, CFR y CIF). 
       .col-lg-6.col-xl-4
-        img(src="@/assets/curso/temas/tema2/img-8.png")
+        img(src="@/assets/curso/temas/tema2/img-8.png" alt="Imagen decorativa")
     
     p.mb-4.text-center.fw-bold A manera de consulta se recomienda que como aprendiz consulte las definiciones de los siguientes términos Incoterms:  
 
@@ -147,7 +147,7 @@
       :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/bg-1.png')})`}"
       style="background-size: cover; background-repeat: no-repeat; background-position: center"
     )
-      img.col-lg-8.col-xl-6.mx-auto(src="@/assets/curso/temas/tema2/img-9.svg")
+      img.col-lg-8.col-xl-6.mx-auto(src="@/assets/curso/temas/tema2/img-9.svg" alt="Imagen decorativa")
 
     p.mb-4.text-center.fw-bold Revise en las tarjetas los conceptos clave de Incoterms:
 
@@ -159,7 +159,7 @@
           .crd_hover_txt(data-aos="flip-left")
             .crd_hover_txt--img
               figure
-                img(src="@/assets/curso/temas/tema2/tjs-1.jpg")
+                img(src="@/assets/curso/temas/tema2/tjs-1.jpg" alt="Imagen decorativa Costo")
             .crd_hover_txt--body(style="background-color: #91B3FAF0")
               h5.mb-3.text-center Costo
               p.mb-0 Valor del producto en el lugar de entrega definido, este costo estará siempre asociado al INCOTERM aplicado y al medio de transporte empleado.
@@ -168,7 +168,7 @@
           .crd_hover_txt(data-aos="flip-left")
             .crd_hover_txt--img
               figure
-                img(src="@/assets/curso/temas/tema2/tjs-2.jpg")
+                img(src="@/assets/curso/temas/tema2/tjs-2.jpg" alt="Imagen decorativa Flete")
             .crd_hover_txt--body(style="background-color: #57DBD8F0")
               h5.mb-3.text-center Flete
               p.mb-0 Costo del transporte principal que se encarga de cruzar la frontera durante el proceso de exportación en la DFI. Hace parte integral del Incoterm.
@@ -177,7 +177,7 @@
           .crd_hover_txt(data-aos="flip-left")
             .crd_hover_txt--img
               figure
-                img(src="@/assets/curso/temas/tema2/tjs-3.jpg")
+                img(src="@/assets/curso/temas/tema2/tjs-3.jpg" alt="Imagen decorativa Riesgo")
             .crd_hover_txt--body(style="background-color: #91B3FAF0")
               h5.mb-3.text-center Riesgo
               p.mb-0 Probabilidad de daño o pérdida de la carga durante el transporte principal. La responsabilidad de asumir el riesgo estará siempre definida por el Incoterm aplicado.
@@ -185,7 +185,7 @@
           .crd_hover_txt(data-aos="flip-left")
             .crd_hover_txt--img
               figure
-                img(src="@/assets/curso/temas/tema2/tjs-4.jpg")
+                img(src="@/assets/curso/temas/tema2/tjs-4.jpg" alt="Imagen decorativa Seguro")
             .crd_hover_txt--body(style="background-color: #57DBD8F0")
               h5.mb-3.text-center Seguro
               p.mb-0 Costo de la póliza de seguro del transporte principal que ampara el riesgo asociado; este también estará definido en el Incoterm.
@@ -194,7 +194,7 @@
           .crd_hover_txt(data-aos="flip-left")
             .crd_hover_txt--img
               figure
-                img(src="@/assets/curso/temas/tema2/tjs-5.jpg")
+                img(src="@/assets/curso/temas/tema2/tjs-5.jpg" alt="Imagen decorativa Transporte")
             .crd_hover_txt--body(style="background-color: #57DBD8F0")
               h5.mb-3.text-center Transporte
               p.mb-0 Modo de transporte principal de la carga que se encarga de cruzar la frontera de acuerdo con el modo de transporte que será aplicado por  el Incoterm.
@@ -202,7 +202,7 @@
     .tarjeta.color-primario.p-3.col-lg-10.mx-auto(style="background: linear-gradient(-90deg, rgba(58,180,177,1) 0%, rgba(26,15,145,1) 100%);")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
-          img(src="@/assets/curso/temas/tema1/img-26.svg")
+          img(src="@/assets/curso/temas/tema1/img-26.svg" alt="Imagen decorativa")
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0.texto-blanco
