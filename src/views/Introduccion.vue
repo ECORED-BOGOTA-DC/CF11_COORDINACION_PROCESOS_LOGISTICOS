@@ -3,13 +3,13 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
   
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span
           i.fas.fa-info
       h1 Introducción
 
-    p.mb-5 La realidad de la logística actual es una logística integral de carácter global, tal como lo verá en el siguiente video que da la introducción al contenido que se tratará en este componente formativo:
+    p.mb-5(data-aos="fade-right") La realidad de la logística actual es una logística integral de carácter global, tal como lo verá en el siguiente video que da la introducción al contenido que se tratará en este componente formativo:
 
     .container-100.py-5(
       style="background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(233,255,254,1) 50%, rgba(255,255,255,1) 100%);"

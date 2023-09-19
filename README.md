@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Comercio exterior para logística**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://github.com/ECORED-BOGOTA-DC/CF11_COORDINACION_PROCESOS_LOGISTICOS](https://github.com/ECORED-BOGOTA-DC/CF11_COORDINACION_PROCESOS_LOGISTICOS)
 
 #
 

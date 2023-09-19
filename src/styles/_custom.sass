@@ -39,10 +39,9 @@
       max-width: 510px
       margin-left: auto
 .container-100
-  margin-left: -3rem
-  margin-right: -3rem
-  padding-right: 3rem
-  padding-left: 3rem
+  margin-inline: -3rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
 
 .tarjeta-edit-2
   padding: 1.5rem
@@ -148,3 +147,6 @@
         background-color: #57DBD8
 table td
   padding: 1rem !important
+
+.lista-ul li, .lista-ul--color li, .ol.lista-ol--cuadro li, .lista-ol--cuadro li, .lista-ul--separador li
+  display: flex
