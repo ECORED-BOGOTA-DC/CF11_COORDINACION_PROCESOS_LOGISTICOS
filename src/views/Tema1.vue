@@ -621,7 +621,7 @@
 
     p.text-center.fw-bold.mb-5 Explore el siguiente listado de normativas relacionadas con las regulaciones de zona franca en Colombia:
 
-    .d-flex.flex-wrap.container-100.py-5(style="background-color: #E6FAF9")
+    .d-flex.flex-wrap.container-100.py-5.px-lg-0.px-4(style="background-color: #E6FAF9")
       ul.lista-ul.mb-5.border-ul-1.col-lg-6.pe-lg-4
         li(data-aos="fade-right")
           i.lista-ul__vineta(style="color: #57DBD8")
