@@ -451,8 +451,8 @@
 
     .mx-auto.col-lg-7.mb-5
       .titulo-sexto.color-acento-botones(data-aos="fade-right")
-        h5 Tabla 1
-        span.d-block Operadores económicos OEA
+        h5 Tabla 1.
+        span Operadores económicos OEA
       .tabla-a.color-primario.mb-3
         table
           thead
