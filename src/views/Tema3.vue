@@ -507,7 +507,7 @@
       .col-md-7.col-lg-8.col-xl-9.pe-md-4.order-2.order-md-1
         p(data-aos="fade-right") Toda organización pronostica, planea y presupuesta todas las áreas operativas, teniendo como base los ingresos, gastos y costos dentro de un período de tiempo establecido. 
         .cajon.color-secundario.p-4.mb-4(data-aos="fade-right" style="background-color: #F2F6FE")
-          p.mb-0 Si se tiene una buena estructura presupuestal y un buen manejo de los ingresos y los gastos se garantiza una empresa solvente y con un buen músculo financiero, lo que ayuda a la toma de decisiones eficientes y eficaces por parte de los directivos. 
+          p.mb-0 Si se tiene una buena estructura presupuestal y un buen manejo de los ingresos y los gastos, se garantiza una empresa solvente y con un buen músculo financiero, lo que ayuda a la toma de decisiones eficientes y eficaces por parte de los directivos. 
       img.col-md-5.col-lg-4.col-xl-3.mx-auto.mb-4.order-1.order-md-2(src="@/assets/curso/temas/tema3/img-27.png" style="max-width: 295px;" data-aos="fade-left" alt="Imagen decorativa")
 
     .d-flex.flex-wrap.align-items-start.position-relative.mb-5

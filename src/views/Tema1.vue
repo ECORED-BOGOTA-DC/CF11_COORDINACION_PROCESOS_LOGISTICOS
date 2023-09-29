@@ -417,7 +417,38 @@
       :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/bg-1.png')})`}"
       style="background-size: cover; background-repeat: no-repeat; background-position: center"
     )
-      img.mx-auto(src="@/assets/curso/temas/tema1/img-20.svg" style="max-width: 400px" data-aos="fade-right" alt="Imagen que indica qué se obtiene al contratar un agente de carga.")
+      //img.mx-auto(src="@/assets/curso/temas/tema1/img-20.svg" style="max-width: 400px" data-aos="fade-right" alt="Imagen que indica qué se obtiene al contratar un agente de carga.")
+
+      .row.justify-content-center.align-items-center.mb-2
+        .col-lg-5
+          .tarjeta.tarjeta-azul.p-2
+            h5.text-center Organización de la operación de carga.
+      .row.justify-content-center.align-items-center.mb-2
+        .col-lg-5
+          .tarjeta.tarjeta-verde.p-2
+            h5.text-center Estrategia y alianza.
+      .row.justify-content-center.align-items-center.mb-2
+        .col-lg-5
+          .tarjeta.tarjeta-azul.p-2
+            h5.text-center Experiencia y nivel.
+      .row.justify-content-center.align-items-center.mb-2
+        .col-lg-5
+          .tarjeta.tarjeta-verde.p-2
+            h5.text-center Acompañamiento en la operación.
+      .row.justify-content-center.align-items-center.mb-2
+        .col-lg-5
+          .tarjeta.tarjeta-azul.p-2
+            h5.text-center Alianzas con agente de aduana.
+      .row.justify-content-center.align-items-center.mb-2
+        .col-lg-5
+          .tarjeta.tarjeta-verde.p-2
+            h5.text-center Presencia en principales puertos.
+      .row.justify-content-center.align-items-center.mb-2
+        .col-lg-5
+          .tarjeta.tarjeta-azul.p-2
+            h5.text-center Red de representantes.
+
+
 
     Separador 
 
