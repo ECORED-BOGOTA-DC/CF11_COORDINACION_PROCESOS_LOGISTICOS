@@ -116,7 +116,7 @@
             span.number-tj 07
             img.mx-auto.mb-4(src="@/assets/curso/temas/tema1/tj-7.svg" style="max-width: 152px" alt="Imagen decorativa")
             h5.mb-0.text-center Procedimientos cambiarios
-    p.mb-5.fw-bold(data-aos="fade-right") Explore en las siguientes tarjetas los tipos de exportación de muestras sin valor comercial y exportación de servicios, para que identifique los requisitos de cada uno: 
+    p.mb-5.fw-bold(data-aos="fade-right") Explore los siguientes tipos de exportación de muestras sin valor comercial y exportación de servicios, para que identifique los requisitos de cada uno: 
 
     TabsB.color-acento-contenido.mb-5(data-aos="zoom-in")
       .py-4.py-md-5(
@@ -244,7 +244,7 @@
         
         .row
           .col-md.mb-4.mb-md-0.order-2.order-md-1
-            p El trámite ante el Ministerio de Comercio, Industria y Turismo. Este requerimiento es necesario cuando se necesita el registro de importación y se realiza en la página <a href="www.vuce.gov.co">www.vuce.gov.co</a>
+            p El trámite ante el Ministerio de Comercio, Industria y Turismo. Este requerimiento es necesario cuando se necesita el registro de importación y se realiza en la página <a href="https://www.vuce.gov.co/" target="_blank">www.vuce.gov.co</a>
           img.mx-4.order-1.order-md-2.mb-4.mb-md-auto(src='@/assets/curso/temas/tema1/pa-5.svg' style="max-width: 161px" alt="Imagen decorativa")
 
         .row
@@ -417,7 +417,7 @@
       :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/bg-1.png')})`}"
       style="background-size: cover; background-repeat: no-repeat; background-position: center"
     )
-      img.mx-auto(src="@/assets/curso/temas/tema1/img-20.svg" style="max-width: 400px" data-aos="fade-right" alt="Imagen decorativa")
+      img.mx-auto(src="@/assets/curso/temas/tema1/img-20.svg" style="max-width: 400px" data-aos="fade-right" alt="Imagen que indica qué se obtiene al contratar un agente de carga.")
 
     Separador 
 

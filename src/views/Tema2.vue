@@ -136,19 +136,25 @@
 
     .d-flex.flex-wrap.mb-5
       .col-lg-6.col-xl-8.pe-lg-4(data-aos="fade-right")
-        p La estructura de los Incoterms 2020 es lógica y coherente, son fáciles de usar y no requieren ningún conocimiento previo significativo. Solo es importante saber qué modo de transporte se utiliza para una actividad específica; hay normas para todos los medios de transporte especialmente en el caso de los contenedores y normas que solo son apropiadas para el transporte marítimo y fluvial, también al transporte multimodal, que combina varios modos de transporte, por ejemplo, la carretera, el ferrocarril o el mar.
+        p La estructura de los Incoterms 2020 es lógica y coherente, son fáciles de usar y no requieren ningún conocimiento previo significativo. Solo es importante saber qué modo de transporte se utiliza para una actividad específica; hay normas para todos los medios de transporte, especialmente en el caso de los contenedores y normas que solo son apropiadas para el transporte marítimo y fluvial, también al transporte multimodal, que combina varios modos de transporte, por ejemplo, la carretera, el ferrocarril o el mar.
 
         p.mb-0 Los Incoterms 2020 se dividen en 11 términos para cualquier modo de transporte (EXW, FCA, CPT, CIP, DAP, DPU y DDP) y para transporte marítimos y aguas navegables (FAS, FOB, CFR y CIF). 
       .col-lg-6.col-xl-4(data-aos="fade-left")
         img(src="@/assets/curso/temas/tema2/img-8.png" alt="Imagen decorativa")
     
-    p.mb-4.text-center.fw-bold(data-aos="fade-right") A manera de consulta se recomienda que como aprendiz consulte las definiciones de los siguientes términos Incoterms:  
+    p.mb-5.text-center.fw-bold(data-aos="fade-right") A manera de consulta se recomienda que como aprendiz consulte las definiciones de los siguientes términos Incoterms:  
+
+    .row.justify-content-center.align-items-center
+      .col-lg-6
+        .titulo-sexto.color-acento-botones
+          h5 Figura 1.
+          span Términos Incoterms  
 
     .container-100.py-5(
       :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/bg-1.png')})`}"
       style="background-size: cover; background-repeat: no-repeat; background-position: center"
     )
-      img.col-lg-8.col-xl-6.mx-auto(src="@/assets/curso/temas/tema2/img-9.svg" alt="Imagen decorativa" data-aos="zoom-in")
+      img.col-lg-8.col-xl-6.mx-auto(src="@/assets/curso/temas/tema2/img-9.svg" alt="Imagen que contiene los términos Incoterms que son importantes conocer." data-aos="zoom-in")
 
     p.mb-4.text-center.fw-bold(data-aos="fade-right") Revise en las tarjetas los conceptos clave de Incoterms:
 

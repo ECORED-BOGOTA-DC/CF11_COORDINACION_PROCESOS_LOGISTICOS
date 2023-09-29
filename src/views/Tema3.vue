@@ -119,7 +119,7 @@
     .d-flex.flex-wrap.align-items-start.position-relative.mb-5
       img.col-md-5.col-lg-4.col-xl-3.mx-auto.mb-4(src="@/assets/curso/temas/tema3/img-14.png" style="max-width: 295px;" data-aos="fade-right" alt="Imagen decorativa")
       .col-md-7.col-lg-8.col-xl-9.ps-md-4
-        p(data-aos="fade-left") La globalización y la internacionalización de las industrias en todas las partes dependerán en gran medida del desempeño y de los costos en todas las áreas de actividades de la Distribución Física Internacional. A medida que las compañías vayan alcanzando una visión mundial de sus operaciones, la Distribución Física Internacional en adelante DFI alcanzará creciente importancia dentro de la organización, ya que los costos en especial de los transportes llegarán a ser una parte mayoritaria de la estructura total de costos. 
+        p(data-aos="fade-left") La globalización y la internacionalización de las industrias en todas las partes dependerán en gran medida del desempeño y de los costos en todas las áreas de actividades de la Distribución Física Internacional. A medida que las compañías vayan alcanzando una visión mundial de sus operaciones, la Distribución Física Internacional en adelante DFI alcanzará creciente importancia dentro de la organización, ya que los costos, en especial de los transportes, llegarán a ser una parte mayoritaria de la estructura total de costos. 
         .cajon.color-secundario.p-4.mb-4(data-aos="fade-left" style="background-color: #F2F6FE")
           p.mb-0 Cada empresa que transforma y vende es un sistema para el diseño, la producción y la entrega de bienes a los clientes; y cuando es definida apropiadamente la logística y la distribución como un conjunto de actividades relacionadas con el movimiento de materiales, incluyendo la información y los sistemas de control, la distribución y la logística constituyen los hilos que pasan por todas las funciones y responsabilidades tradicionales, desde la obtención de materias primas hasta la entrega del producto.
     p.fw.bold-text-center.mb-5(data-aos="fade-right") El enfoque integrado de los costos de DFI los divide en tres categorías más o menos iguales, que son:
@@ -469,7 +469,7 @@
           div(numero="1" titulo="Peligrosa")
             .d-flex.flex-wrap
               .col-xl-7.order-2.order-xl-1.pe-xl-4
-                p Mercancía que posee propiedades explosivas, venenosas, oxidantes, radioactivas que, durante su manipulación, transporte y almacenamiento representa riesgo para la vida humana. 
+                p Mercancía que posee propiedades explosivas, venenosas, oxidantes, radioactivas que, durante su manipulación, transporte y almacenamiento, representa riesgo para la vida humana. 
 
                 p A partir de la clasificación de peligro es importante conocer las áreas de almacenamiento, alistamiento y despacho de mercancías, lo cual permite conocer la compatibilidad o incompatibilidad para el transporte y el almacenamiento de sustancias químicas.
               img.col-xl-5.order-1.order-xl-2.mb-4.mb-xl-auto.mx-auto(src="@/assets/curso/temas/tema3/img-22.png" style="max-width: 282px" alt="Imagen decorativa")
@@ -491,7 +491,7 @@
     .d-flex.flex-wrap.align-items-start.position-relative.mb-5
       img.col-md-5.col-lg-4.col-xl-3.mx-auto.mb-4(src="@/assets/curso/temas/tema3/img-25.png" style="max-width: 295px;" data-aos="fade-right" alt="Imagen decorativa")
       .col-md-7.col-lg-8.col-xl-9.ps-md-4
-        p(data-aos="fade-left") Los términos de la negociación juegan un papel determinante en los negocios internacionales, ya que estipulan las responsabilidades del vendedor y del comprador, contenidas en la cláusula del contrato de compraventa, con el fin de mostrar una negociación clara, que permita a las partes comprometerse; esto se deriva de saber qué lugar o qué situación genera riesgo, ya que la falta de claridad puede incurrir en pérdidas económicas para la empresa. También es importante tener claro que los medios de transporte no se aplican por igual en todos los casos.
+        p(data-aos="fade-left") Los términos de la negociación juegan un papel determinante en los negocios internacionales, ya que estipulan las responsabilidades del vendedor y del comprador, contenidas en la cláusula del contrato de compraventa, con el fin de mostrar una negociación clara, que permita a las partes comprometerse; esto se deriva de saber qué lugar o qué situación genera riesgo, puesto que la falta de claridad puede incurrir en pérdidas económicas para la empresa. También es importante tener claro que los medios de transporte no se aplican por igual en todos los casos.
         .cajon.color-acento-contenido.p-4.mb-4(data-aos="fade-left")
           p.mb-0 Además de esto, la incursión en los mercados internacionales debe estar regulada por una documentación que avale los procesos de compra y venta internacional, con el fin de reducir los riesgos comerciales, políticos, económicos y empresariales.
     
